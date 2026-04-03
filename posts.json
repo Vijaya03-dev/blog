@@ -1,0 +1,127 @@
+[
+    {
+        "title": "Getting Started with Coding",
+        "content": "Coding is the foundation of modern technology.",
+        "user_id": 1
+    },
+    {
+        "title": "Django Basics",
+        "content": "Django helps build web apps quickly and efficiently.",
+        "user_id": 2
+    },
+    {
+        "title": "React Introduction",
+        "content": "React is a powerful library for building UI.",
+        "user_id": 6
+    },
+    {
+        "title": "Why Learn Python",
+        "content": "Python is simple, readable, and widely used.",
+        "user_id": 7
+    },
+    {
+        "title": "Frontend vs Backend",
+        "content": "Frontend handles UI, backend manages logic.",
+        "user_id": 1
+    },
+    {
+        "title": "APIs Explained",
+        "content": "APIs allow communication between systems.",
+        "user_id": 2
+    },
+    {
+        "title": "Database Basics",
+        "content": "Databases store and manage application data.",
+        "user_id": 8
+    },
+    {
+        "title": "Git and Version Control",
+        "content": "Git tracks changes and helps in collaboration.",
+        "user_id": 6
+    },
+    {
+        "title": "HTML Essentials",
+        "content": "HTML structures the content of web pages.",
+        "user_id": 1
+    },
+    {
+        "title": "CSS Styling Tips",
+        "content": "CSS makes your website visually appealing.",
+        "user_id": 2
+    },
+    {
+        "title": "JavaScript Basics",
+        "content": "JavaScript adds interactivity to websites.",
+        "user_id": 7
+    },
+    {
+        "title": "Debugging Code",
+        "content": "Debugging helps find and fix errors.",
+        "user_id": 8
+    },
+    {
+        "title": "Responsive Design",
+        "content": "Design websites that work on all devices.",
+        "user_id": 1
+    },
+    {
+        "title": "REST APIs",
+        "content": "REST APIs follow standard web principles.",
+        "user_id": 2
+    },
+    {
+        "title": "Authentication Basics",
+        "content": "Authentication secures user access.",
+        "user_id": 6
+    },
+    {
+        "title": "State Management",
+        "content": "State controls data flow in applications.",
+        "user_id": 7
+    },
+    {
+        "title": "Component Reusability",
+        "content": "Reusable components save development time.",
+        "user_id": 1
+    },
+    {
+        "title": "Error Handling",
+        "content": "Handle errors to improve user experience.",
+        "user_id": 2
+    },
+    {
+        "title": "Deployment Basics",
+        "content": "Deploy apps to make them accessible online.",
+        "user_id": 7
+    },
+    {
+        "title": "Performance Optimization",
+        "content": "Optimize code for faster performance.",
+        "user_id": 8
+    },
+    {
+        "title": "Security Best Practices",
+        "content": "Keep your application safe from threats.",
+        "user_id": 1
+    },
+    {
+        "title": "Clean Code Principles",
+        "content": "Write code that is readable and maintainable.",
+        "user_id": 2
+    },
+    {
+        "title": "Testing Basics",
+        "content": "Testing ensures your code works correctly.",
+        "user_id": 7
+    },
+    {
+        "title": "Async Programming",
+        "content": "Async improves performance in web apps.",
+        "user_id": 8
+    },
+    {
+        "title": "Future of Web Dev",
+        "content": "Web development continues to evolve rapidly.",
+        "user_id": 1
+    }
+]
